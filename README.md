@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Keshav Murthy  
 
-<!--
-**KeshavMurthySN/KeshavMurthySN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst passionate about turning raw data into meaningful insights.  
+I enjoy working with data to help solve problems, optimize processes, and support decision-making.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Power BI**: Building interactive dashboards and reports  
+- **SQL**: Querying, cleaning, and transforming data  
+- **Excel**: Advanced analysis and visualization  
+- **HTML5**: Structuring and presenting data on the web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Do
+- Design intuitive dashboards and reports  
+- Perform data cleaning and transformation  
+- Analyze trends and provide insights for business growth  
+- Share simple, actionable stories from complex datasets  
+
+## 🌱 Currently Learning
+Exploring advanced Power BI features and DAX to create more powerful models.  
+
+## 📫 Connect With Me
+- Email: keshav.murthy@outlook.com  
+- [LinkedIn](https://www.linkedin.com/) (Add your link here)  
+- [GitHub](https://github.com/KeshavMurthySN)  
+
+---
+✨ _“Data is a story waiting to be told.”_ 
