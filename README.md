@@ -19,8 +19,8 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 Exploring advanced Power BI features and DAX to create more powerful models.  
 
 ## 📫 Connect With Me
-- [Email] keshav.murthy@outlook.com  
-- [GitHub] https://github.com/KeshavMurthySN
-- [LinkedIn] https://www.linkedin.com/keshavmurthysn
+- **Email:** keshav.murthy@outlook.com  
+- **GitHub:** https://github.com/KeshavMurthySN
+- **LinkedIn:** https://www.linkedin.com/keshavmurthysn
 
 ✨ _“Data is a story waiting to be told.”_ 
