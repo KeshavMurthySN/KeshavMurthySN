@@ -11,8 +11,8 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 - **HTML5**:     Structuring and presenting data on the web
 
 ## 📊 What I Do
-- Design intuitive dashboards and reports
 - Perform data cleaning and transformation
+- Design intuitive dashboards and reports
 - Analyze trends and provide insights for business growth
 - Share simple, actionable stories from complex datasets
 
