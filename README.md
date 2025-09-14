@@ -8,7 +8,6 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 - **SQL**:       Querying, cleaning, and transforming data
 - **Excel**:     Advanced analysis and visualization
 - **Python**:    Data scraping and data transformation
-- **HTML5**:     Structuring and presenting data on the web
 
 ## 📊 What I Do
 - Perform data cleaning and transformation
