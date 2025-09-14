@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Keshav Murthy  
+# Hi 👋 I'm Keshav Murthy  
 
 I’m a Data Analyst passionate about turning raw data into meaningful insights.  
 I enjoy working with data to help solve problems, optimize processes, and support decision-making.  
