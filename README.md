@@ -8,7 +8,8 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 - **SQL**:       Querying, cleaning, and transforming data
 - **Excel**:     Advanced analysis and visualization
 - **Python**:    Data scraping and data transformation
-
+- **ETL**:       Data extraction, cleaning, & transformation
+  
 ## 📊 What I Do
 - Perform data cleaning and transformation
 - Design intuitive dashboards and reports
