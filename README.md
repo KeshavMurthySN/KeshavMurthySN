@@ -4,9 +4,10 @@ I’m a Data Analyst passionate about turning raw data into meaningful insights.
 I enjoy working with data to help solve problems, optimize processes, and support decision-making.  
 
 ## 🔧 Skills
-- **Power BI**:  Building interactive dashboards and reports
-- **SQL**:       Querying, cleaning, and transforming data
-- **Excel**:     Advanced analysis and visualization
+- **Power BI**:  Designing and developing interactive dashboards and reports to track KPIs, identify trends, and provide actionable business insights.
+- **SQL**:       Writing optimized queries to extract, clean, and transform structured data from relational databases for analysis and reporting.
+- **Excel**:     Performing advanced data analysis using formulas, pivot tables, charts, and automation techniques for business reporting and decision-making.
+- **Python**:    Conducting exploratory data analysis (EDA), data cleaning, visualization, and automation using libraries like Pandas, NumPy, and Matplotlib.
   
 ## 📊 What I Do
 - Perform data cleaning and transformation
