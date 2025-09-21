@@ -17,6 +17,7 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 
 ## 🌱 Currently Learning
 Exploring advanced Power BI features and DAX to create more powerful models.
+Learning Python for data science.
 
 ## 📫 Connect With Me
 - **Email:** keshav.murthy@outlook.com
