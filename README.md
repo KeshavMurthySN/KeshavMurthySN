@@ -10,10 +10,10 @@ I enjoy working with data to help solve problems, optimize processes, and suppor
 - **Python**:    Exploratory data analysis and visualization with Pandas/Matplotlib.
   
 ## 📊 What I Do
-- Perform data cleaning and transformation
-- Design intuitive dashboards and reports
-- Analyze trends and provide insights for business growth
-- Share simple, actionable stories from complex datasets
+- Perform data cleaning and transformation.
+- Design intuitive dashboards and reports.
+- Analyze trends and provide insights for business growth.
+- Share simple, actionable stories from complex datasets.
 
 ## 🌱 Currently Learning
 Exploring advanced Power BI features and DAX to create more powerful models.
